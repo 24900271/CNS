@@ -55,6 +55,9 @@ int main()
 
 ## OUTPUT :
 
+<img width="782" height="671" alt="Screenshot 2025-08-30 083243" src="https://github.com/user-attachments/assets/009e2e13-cd7a-47f1-a9c6-ad3c0f788119" />
+
+
 <img width="800" height="870" alt="Screenshot 2025-08-30 083447" src="https://github.com/user-attachments/assets/f54685b4-6073-4ee8-82c1-8125ed8aa7f9" />
 
 ## Result :
